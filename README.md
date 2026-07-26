@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaysilver25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sylva Jay) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Sylva Jay) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sylva Jay)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
